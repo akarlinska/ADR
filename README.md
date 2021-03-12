@@ -1,5 +1,7 @@
-# ADR
-Materiały na kurs "Analiza danych ilościowych z R" w semestrze letnim 2020/21
+![](https://raw.githubusercontent.com/tzoltak/3502-SCC-ADR/master/belka_gorna.png)
+
+# Analiza danych ilościowych z wykorzystaniem R
+semestr letni 2020/2021
 
 ## Prowadzący
 

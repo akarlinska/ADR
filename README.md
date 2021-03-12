@@ -37,4 +37,6 @@ UWAGA: aby uniknąć "krzaczenia się" polskich znaków w materiałach do kursu,
 - akceptujemy wybór, a następnie zmianę opcji klikając przyciski OK.
 
 ---
-Materiały na zajęcia Analiza danych ilościowych z wykorzystaniem R zostały przygotowane w ramach projektu Program zintegrowanych działań na rzecz rozwoju Uniwersytetu Warszawskiego, realizowanego w ramach programu operacyjnego Wiedza Edukacja Rozwój, oś priorytetowa III. Szkolnictwo wyższe dla gospodarki i rozwoju, działanie: 3.5 Kompleksowe programy szkół wyższych.
+Materiały na zajęcia *Analiza danych ilościowych z wykorzystaniem R* zostały przygotowane w ramach projektu *Program zintegrowanych działań na rzecz rozwoju Uniwersytetu Warszawskiego*, realizowanego w ramach programu operacyjnego *Wiedza Edukacja Rozwój, oś priorytetowa III. Szkolnictwo wyższe dla gospodarki i rozwoju, działanie: 3.5 Kompleksowe programy szkół wyższych*.
+
+![](https://raw.githubusercontent.com/tzoltak/3502-SCC-ADR/master/belka_dolna.png)

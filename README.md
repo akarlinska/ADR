@@ -1,6 +1,10 @@
 # ADR
 Materiały na kurs "Analiza danych ilościowych z R" w semestrze letnim 2020/21
-Prowadzący: dr Katarzyna Abramczuk, mgr Agnieszka Karlińska
+
+## Prowadzący
+
+- dr Katarzyna Abramczuk
+- mgr Agnieszka Karlińska
 
 ## Opis zajęć 
 

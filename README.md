@@ -9,25 +9,25 @@ Celem zajęć jest zaznajomienie z podstawami języka R i sposobem wykorzystania
 
 **Harmonogram**
 
-    Podstawy R: import danych, proste przekształcenia *ramek danych* i wektorów z wykorzystaniem składni *base R* (1 spotkanie)
-    Przekształcanie danych, tworzenie rozkładów i zestawień statystyk przy użyciu pakietów *tidyr* i *dplyr* (2-3 spotkania)
-    Wizualizacja danych z wykorzystaniem pakietu *ggplot2* (2 spotkania)
-    Regresja liniowa (1 spotkanie)
-    Prezentacje projektów badawczych (1 spotkanie)
+- Podstawy R: import danych, proste przekształcenia *ramek danych* i wektorów z wykorzystaniem składni *base R* (1 spotkanie)
+- Przekształcanie danych, tworzenie rozkładów i zestawień statystyk przy użyciu pakietów *tidyr* i *dplyr* (2-3 spotkania)
+- Wizualizacja danych z wykorzystaniem pakietu *ggplot2* (2 spotkania)
+- Regresja liniowa (1 spotkanie)
+- Prezentacje projektów badawczych (1 spotkanie)
 
 **Oprogramowanie**
 
 Aby uczestniczyć w zajęciach, wymagana jest instalacja plików R (najpierw) oraz instalacja interfejsu środowiska graficznego do pracy w tym języku RStudio.
 
-    - Instalator R należy pobrać ze strony CRAN.
-    - Instalator RStudio należy pobrać ze strony dostawcy.
+- Instalator R należy pobrać ze strony CRAN.
+- Instalator RStudio należy pobrać ze strony dostawcy.
 
-UWAGA: sby uniknąć "krzaczenia się" polskich znaków w materiałach do kursu, po pierwszym otwarciu RStudio należy ustawić domyślne kodowanie plików z kodem na UTF-8. W tym celu (por. rysunek poniżej):
+UWAGA: sby uniknąć "krzaczenia się" polskich znaków w materiałach do kursu, po pierwszym otwarciu RStudio należy ustawić domyślne kodowanie plików z kodem na UTF-8. W tym celu:
 
-    - z menu Tools RStudio wybieramy opcję Global Options;
-    - w oknie, które się pojawi, spośród listy ikon po lewej wybieramy Code, a następnie w prawej części okna zakładkę Saving;
-    - klikamy przycisk Change... obok pola podpisanego Default text encoding: i w okienku, które się pokaże, wybieramy opcję UTF-8;
-    - akceptujemy wybór, a następnie zmianę opcji klikając przyciski OK.
+- z menu Tools RStudio wybieramy opcję Global Options;
+- w oknie, które się pojawi, spośród listy ikon po lewej wybieramy Code, a następnie w prawej części okna zakładkę Saving;
+- klikamy przycisk Change... obok pola podpisanego Default text encoding: i w okienku, które się pokaże, wybieramy opcję UTF-8;
+- akceptujemy wybór, a następnie zmianę opcji klikając przyciski OK.
 
 ---
 Materiały na zajęcia Analiza danych ilościowych z wykorzystaniem R zostały przygotowane w ramach projektu Program zintegrowanych działań na rzecz rozwoju Uniwersytetu Warszawskiego, realizowanego w ramach programu operacyjnego Wiedza Edukacja Rozwój, oś priorytetowa III. Szkolnictwo wyższe dla gospodarki i rozwoju, działanie: 3.5 Kompleksowe programy szkół wyższych.

@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/tzoltak/3502-SCC-ADR/master/belka_gorna.png){width=85%}
+![](https://raw.githubusercontent.com/tzoltak/3502-SCC-ADR/master/belka_gorna.png){width=75%}
 
 # Analiza danych ilościowych z wykorzystaniem R (2020/2021)
 
